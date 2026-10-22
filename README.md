@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ibrahim 👋
 
-<!--
-**Ibrahim1Daralqorna/Ibrahim1Daralqorna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer certified by AXSOS Academy (Ramallah), looking for a QA Engineer / Software Tester role.
 
-Here are some ideas to get you started:
+### 🧪 What I test with
+- **Manual testing:** test cases, bug reports, regression and smoke testing
+- **API testing:** Postman, SQL
+- **Performance testing:** Apache JMeter
+- **Test automation:** Selenium WebDriver, Java, TestNG, Maven, Page Object Model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- [SauceDemoSolo](https://github.com/Ibrahim1Daralqorna/SauceDemoSolo): Selenium + TestNG automation of two end-to-end workflows on saucedemo.com (25 test runs, all passing)
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ibrahim-daralqorna/) · ibrahim.qurnah@gmail.com
